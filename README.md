@@ -1,8 +1,8 @@
-# My Iron Yard Experience
-My front end engineering portfolio created throughout the course between January 3 - March 27, 2015.
+#Spencer Wyckoff's Portfolio
+######My front end engineering portfolio created throughout the course between January 3 - March 27, 2015.
 
-###HTML/CSS/JavaScript Projects
-###
+##HTML/CSS/JavaScript Projects
+
 ####[The Farmer's Market](http://development.farmersmarket.divshot.io/#/) - [gh repo](https://github.com/TheFarmersMarket/FrontEnd)
 The Farmer's Market is our final group project, and it was created to simplify farm-to-table commerce between farmers and consumers.  It's a completely responsive application, built on Materialize's Grid framework, and uses Angular as the MV framework.  Personally, I was responsible for all of the front end functionality and design, and I had the help of two Rails engineers creating the api.
 
@@ -148,7 +148,7 @@ Create a basic JavaScript calculator that can calculate basic functions.
 #####Takeaways
 This project was our introduction to basic vanilla JavaScript.  Up to this point we had only worked in HTML and CSS.  I learned a lot about how to create a basic function, how to pass arguments into those functions, and how to create different methods within a calculator object.  Looking back on it now, it's something I definitely would like to improve upon given the time.
 
-###Basic Layout - HTML/CSS Exercises
+##Basic Layout - HTML/CSS Exercises
 
 ####[Surf & Paddle](https://spencerwyckoff.github.io/Surf-Paddle/) - [gh repo](https://github.com/spencerwyckoff/Surf-Paddle)
 This was a pixel perfect exercise where we were given [this image](https://github.com/spencerwyckoff/Surf-Paddle/blob/master/image_archives/surf-paddle.png), and then had to recreate it from scratch using only HTML and CSS.
