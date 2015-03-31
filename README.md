@@ -1,6 +1,6 @@
 #Spencer Wyckoff's Portfolio
 ######My front end engineering portfolio created throughout the course between January 3 - March 27, 2015.
-====================================================================================================================
+
 ##JavaScript Projects
 
 ####[The Farmer's Market](http://development.farmersmarket.divshot.io/#/) - [gh repo](https://github.com/TheFarmersMarket/FrontEnd)
