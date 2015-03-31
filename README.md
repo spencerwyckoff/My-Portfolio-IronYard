@@ -1,7 +1,7 @@
 #Spencer Wyckoff's Portfolio
 ######My front end engineering portfolio created throughout the course between January 3 - March 27, 2015.
 
-====================================================================================================================
+
 ##HTML/CSS/JavaScript Projects
 
 ####[The Farmer's Market](http://development.farmersmarket.divshot.io/#/) - [gh repo](https://github.com/TheFarmersMarket/FrontEnd)
@@ -39,6 +39,7 @@ Genius Sports is a hackathon project, in fact my very first hackathon project.  
 
 #####Takeaways
 This project made me realize how powerful Angular is for creating projects from scratch, fast.  I gained a lot of experience in creating a user authenticated site, working with Angular's $routes, and making api calls with a backend team.  We eneded up winning best presentation for our project and was an overall fantastic first hackathon.
+
 ====================================================================================================================
 ####[My Morning Routine App](http://development.assignment19-crud.divshot.io/#/) - [gh repo](https://github.com/spencerwyckoff/MorningRoutineApp)
 My Morning Routine app is my first go at a CRUD application.  I have a personal interest in creating morning routines and wanted to build an application that would empower others to do the same.  
@@ -57,7 +58,8 @@ My Morning Routine app is my first go at a CRUD application.  I have a personal 
 
 #####Takeaways
 This is my first project using Angular.js - so it was a learning experience and definitely incomplete.  I learned how to setup an Angular application from nothing, setup $routes, route to different templates, setup my factories and controllers, and make api calls to a Parse database.    
---------------------------------------------------------------------------------------------------------------------
+
+====================================================================================================================
 ####[Five Die (a dice game)](http://development.sw-five-die.divshot.io/) - [gh repo](https://github.com/spencerwyckoff/FiveDie)
 Five Die - a simple, yet surprisingly addictive, dice game - is a 1 player game of chance and light strategy.  A player starts with 5 dice and rolls them to get the lowest possible score. It is also my first ever game programmed completely with HTML, CSS, JS, and jQuery.
 
