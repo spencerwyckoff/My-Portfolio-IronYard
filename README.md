@@ -1,8 +1,8 @@
 #Spencer Wyckoff's Portfolio
 ######My front end engineering portfolio created throughout the course between January 3 - March 27, 2015.
 
-
-##HTML/CSS/JavaScript Projects
+====================================================================================================================
+##JavaScript Projects
 
 ####[The Farmer's Market](http://development.farmersmarket.divshot.io/#/) - [gh repo](https://github.com/TheFarmersMarket/FrontEnd)
 The Farmer's Market is my final group project, and it was created to simplify farm-to-table commerce between farmers and consumers.  It's a completely responsive application, built on Materialize's Grid framework, and uses Angular as the MV framework.  Personally, I was responsible for all of the front end functionality and design, and I had the help of two Rails engineers creating the api.
