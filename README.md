@@ -75,7 +75,8 @@ Five Die - a simple, yet surprisingly addictive, dice game - is a 1 player game 
 
 #####Takeaways
 This project was my first HUGE win with programming.  I shared the game with my blog, friends, and family and got incredible reviews from everyone.  It took me a long time to get the turns working the way I wanted it to, but was a great lesson and a lot of fun to create overall.
---------------------------------------------------------------------------------------------------------------------
+
+====================================================================================================================
 ####[Alaydi's Cafe](http://development.bholben-divshot.divshot.io) - [gh repo](https://github.com/spencerwyckoff/Alaydis-Cafe)
 This was a group project where we had to create a website for a client who owned a restaurant.  They had certain requirements and deliverables that they wanted for their site including having an updatable menu . We pulled down data used on the site via their API.
 
@@ -94,6 +95,7 @@ This was a group project where we had to create a website for a client who owned
 #####Takeaways
 This was the very first group project we did as a class.  We colalborated on a design, layout, and functionality to deliver.  Next, we divided up the project into a series of modules and split them up.  I created the overall look of the site, created the menu animation, and created the JSON data file we were pulling from.  This project really opened my eyes to the navigation and structure of datasets and how to populate web pages with real data in real time.
 
+====================================================================================================================
 ####[Recreate My GitHub](http://development.sw-github-recreate.divshot.io/) - [gh-repo](https://github.com/spencerwyckoff/GitHub-Recreate)
 Project to re-create my own GitHub page using the GitHub API - striving for pixel perfection.
 
@@ -111,6 +113,7 @@ Project to re-create my own GitHub page using the GitHub API - striving for pixe
 #####Takeaways
 This was my first exercise looping through arrays of data, in this case our GH repos using the GH api.  Once I had the data I needed, I needed to create HTML templates using Handlebars to display it onto the page in the appropriate places.  It was really eye opening to see how an API is created and how to navigate through it - it became much simpler to understand once I saw behind the curtain a bit.
 
+====================================================================================================================
 ####[Etsy Page](http://development.sw-etsy-page.divshot.io/) - [gh repo](https://github.com/spencerwyckoff/Create-Etsy-Page)
 Project to re-create an Etsy search page and work with the Etsy API.
 
@@ -127,6 +130,7 @@ Project to re-create an Etsy search page and work with the Etsy API.
 #####Takeaways
 This was a really fun exercise.  Having a love for the Atlanta braves, I decided to make my Etsy page tailor towards Atlanta Braves products.  I had to use the Etsy API to gather my search results and then had to construct a template to display the information in each product like the name, seller, and pricing.  All the other elements on the page were created with pixel perfection in mind and I'm very happy with the way it turned out.
 
+====================================================================================================================
 ####[Accordion](https://spencerwyckoff.github.io/accordion/) - [gh repo](https://github.com/spencerwyckoff/accordion)
 Create an accordion layout from scratch using jQuery, HTML, and CSS.
 
@@ -139,6 +143,7 @@ Create an accordion layout from scratch using jQuery, HTML, and CSS.
 #####Takeaways
 This project got me to better understand how to manipulate the state of the DOM using jQuery and specifically manipulating HTML element's classes using jQuery.  It also opened up my eyes to CSS elements like hovering, clicking, and transitions.
 
+====================================================================================================================
 ####[Calcuhater](https://spencerwyckoff.github.io/JS-Calculator/) - [gh repo](https://github.com/spencerwyckoff/JS-Calculator)
 Create a basic JavaScript calculator that can calculate basic functions.
 
@@ -151,6 +156,7 @@ Create a basic JavaScript calculator that can calculate basic functions.
 #####Takeaways
 This project was our introduction to basic vanilla JavaScript.  Up to this point we had only worked in HTML and CSS.  I learned a lot about how to create a basic function, how to pass arguments into those functions, and how to create different methods within a calculator object.  Looking back on it now, it's something I definitely would like to improve upon given the time.
 
+====================================================================================================================
 ##Basic Layout - HTML/CSS Exercises
 
 ####[Surf & Paddle](https://spencerwyckoff.github.io/Surf-Paddle/) - [gh repo](https://github.com/spencerwyckoff/Surf-Paddle)
@@ -163,6 +169,8 @@ This was a pixel perfect exercise where we were given [this image](https://githu
 
 #####Takeaways
 This was my second project using HTML and CSS - so it was less of a struggle than Octocats - however it still came with plenty of CSS brick walls.  That being said, I kept powering through it little by little and created a final product that I'm proud of.  The method I used to achieve pixel perfection was constantly making adjustments in the Chrome "Inspect Element" tools - modifying the spacing and sizing of things locally there and reapplying those changes to my code.
+
+====================================================================================================================
 
 ####[Octocats](https://spencerwyckoff.github.io/Octocats/) - [gh repo](https://github.com/spencerwyckoff/Octocats)
 This was a CSS pixel perfect exercise where we were given a giant mess of HTML elements and had to make them look like [this image](https://github.com/tiy-atl-js-q1-2015/Assignments/blob/master/Assignment%2002/octodex.png).
