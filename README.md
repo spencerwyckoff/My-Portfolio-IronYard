@@ -1,6 +1,5 @@
 #Spencer Wyckoff's Portfolio
 ######My front end engineering portfolio created throughout the course between January 3 - March 27, 2015.
-
 ====================================================================================================================
 ##JavaScript Projects
 
